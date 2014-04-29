@@ -1,4 +1,4 @@
-jQuery.fn.RandomString = function(argument){
+jQuery.fn.randomString = function(argument){
     var param = {
         length : '8',
         chaine :'abcdefghijklmnopqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ123456789'
